@@ -1,0 +1,30 @@
+[
+    {
+        "image": "assets/laz.jpeg",
+        "answer": "Lazada"
+    },
+    {
+        "image": "assets/amazon.jpeg",
+        "answer": "Amazon"
+    },
+    {
+        "image": "assets/google.jpeg",
+        "answer": "Google"
+    },
+    {
+        "image": "assets/facebook.jpeg",
+        "answer": "Facebook"
+    },
+    {
+        "image": "assets/X.jpeg",
+        "answer": "Twitter"
+    },
+    {
+        "image": "assets/microsoft.jpeg",
+        "answer": "Microsoft"
+    },
+    {
+        "image": "assets/apple.jpeg",
+        "answer": "Apple"
+    }
+]

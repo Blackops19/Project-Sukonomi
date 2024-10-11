@@ -1,0 +1,95 @@
+/* style.css */
+.coin-shop-header .coins-info img {
+    width: 20px;
+    height: 20px;
+    margin-right: 5px;
+  }
+  
+  .coin-shop-header .coins-info span {
+    font-size: 18px;
+  }
+  
+  .coin-options {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+  }
+  
+  .coin-options button {
+    background-color: #e0e0e0; /* Light gray button */
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: bold;
+    transition: background-color 0.3s ease;
+  }
+  
+  .coin-options button:hover {
+    background-color: #ddd; /* Slightly darker on hover */
+  }
+  
+  .coin-packages {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+  }
+  
+  .coin-package {
+    width: 180px;
+    background-color: #fff; /* White package */
+    padding: 20px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    text-align: center;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+  }
+  
+  .coin-package img {
+    width: 60px;
+    height: 60px;
+    margin-bottom: 10px;
+  }
+  
+  .coin-package h3 {
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 5px;
+  }
+  
+  .coin-package p {
+    margin-bottom: 10px;
+  }
+  
+  .coin-package .price {
+    font-size: 16px;
+    font-weight: bold;
+    color: #333;
+  }
+  
+  .coin-package .bonus {
+    font-size: 14px;
+    color: #555;
+  }
+  
+  .button-group {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+  }
+  
+  .button-group button {
+    background-color: #4CAF50; /* Green button */
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    color: white;
+    font-weight: bold;
+    transition: background-color 0.3s ease;
+  }
+  
+  .button-group button:hover {
+    background-color: #45a049; /* Slightly darker on hover */
+  }
